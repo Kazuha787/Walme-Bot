@@ -1,0 +1,69 @@
+{
+
+    "name": "walme-auto-bot",
+
+    "version": "1.0.0",
+
+    "description": "Automated bot for completing Walme airdrop tasks with proxy support",
+
+    "main": "index.js",
+
+    "scripts": {
+
+      "start": "node index.js",
+
+      "test": "echo \"Error: no test specified\" && exit 1"
+
+    },
+
+    "repository": {
+
+      "type": "git",
+
+      "url": "git+https://github.com/airdropinsiders/Walme-Auto-Bot.git"
+
+    },
+
+    "keywords": [
+
+      "walme",
+
+      "airdrop",
+
+      "bot",
+
+      "automation",
+
+      "crypto",
+
+      "proxy"
+
+    ],
+
+    "author": "Kazuha787",
+
+    "license": "MIT",
+
+    "bugs": {
+
+      "url": "https://github.com/Kazuha787/Walme-Bot/issues"
+
+    },
+
+    "homepage": "https://github.com/Kazuha787/Walme-Bot#readme",
+
+    "dependencies": {
+
+      "axios": "^1.8.1",
+
+      "chalk": "^4.1.2",
+
+      "http-proxy-agent": "^7.0.0",
+
+      "https-proxy-agent": "^7.0.6",
+
+      "socks-proxy-agent": "^8.0.5"
+
+    }
+
+}
