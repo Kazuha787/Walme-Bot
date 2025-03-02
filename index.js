@@ -646,7 +646,7 @@ async function runBot() {
 
         console.log(chalk.cyan.bold('═══════════════════════════════════════'));
 
-        console.log(chalk.cyan.bold('           Walme  Bot - KAZUHA787   '));
+        console.log(chalk.cyan.bold('         Walme  Bot - KAZUHA787   '));
 
         console.log(chalk.cyan.bold('═══════════════════════════════════════'));
 
