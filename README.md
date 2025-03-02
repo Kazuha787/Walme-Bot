@@ -3,7 +3,7 @@ An automated bot for completing Walme airdrop tasks with comprehensive proxy sup
 ## 📢 Join Our Community
 
 # Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
-# GitHub Repository: [Monard](https://github.com/Kazuha787/Monard-Bot.git)
+# GitHub Repository: [Walme](https://github.com/Kazuha787/Walme-Bot.git)
 
 ## Register
 
